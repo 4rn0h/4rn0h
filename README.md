@@ -1,6 +1,13 @@
+### Now Playing — Spotify 🎧
+### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
+
 - 👋 Hi, I’m @4rn0h
 - 👀 I’m interested in Dev | Data-Engineering | BlockChain
-- 🌱 I’m currently learning Data-Engineering
 - 💞️ I’m looking to collaborate on any intresting projects that will improve my skills
 - 📫 How to reach me o.arnoh@gmail.com
 
